@@ -25,8 +25,3 @@ python manage.py migrate
 ```bash
 python manage.py createsuperuser
 ```
-
-## Superuser credentials
-- username = test
-- email = test@mail.com
-- password = testpassword
