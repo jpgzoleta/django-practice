@@ -26,6 +26,6 @@ python manage.py createsuperuser
 ```
 
 ## Superuser credentials
-username = test
-email = test@mail.com
-password = testpassword
+- username = test
+- email = test@mail.com
+- password = testpassword
