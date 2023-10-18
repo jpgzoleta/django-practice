@@ -1,5 +1,6 @@
 # django-practice
- 
+ Just trying django with the rest api framework
+
 ## To run server
 ```bash
 python manage.py runserver 
